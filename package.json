@@ -1,0 +1,24 @@
+{
+  "name": "react-css_spinners",
+  "version": "1.0.0",
+  "description": "spinners with only css for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coder-Lucy/react-css_spinners.git"
+  },
+  "keywords": [
+    "react",
+    "css",
+    "spinners"
+  ],
+  "author": "Lucy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Coder-Lucy/react-css_spinners/issues"
+  },
+  "homepage": "https://github.com/Coder-Lucy/react-css_spinners#readme"
+}
