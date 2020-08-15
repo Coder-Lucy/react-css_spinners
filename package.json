@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Coder-Lucy/react-css_spinners/issues"
   },
-  "homepage": "https://github.com/Coder-Lucy/react-css_spinners#readme"
+  "homepage": "https://github.com/Coder-Lucy/react-css_spinners#readme",
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  }
 }
